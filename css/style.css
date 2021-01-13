@@ -1,0 +1,28 @@
+*{   
+    font-family: 'Roboto', sans-serif;
+}
+p{
+    color: gray;
+}
+
+
+p{
+    text-align: justify;
+}
+.gap{
+    
+    height: 750px;
+}
+.height{
+    margin-top: 50px;
+    padding-top: 150px;
+}
+.add-bg{
+    
+    background-image: url(/images/bg.png);
+    background-repeat: no-repeat;   
+    background-size: contain;
+    height: 300px;
+    width: 100%px;
+    
+}
